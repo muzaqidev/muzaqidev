@@ -1,16 +1,16 @@
 <div align="center">
 
-### Hi there, I'm WAHYU FAOSZAN MUZAQI
+### Hi, I'm WAHYU FAOSZAN MUZAQI
 
-Self-taught developer from Indonesia. Building autonomous AI agents and full-stack tools that run natively on Android via Termux.
+Building autonomous AI agents and full-stack tools that run natively on Android via Termux.
 
-[![GitHub](https://img.shields.io/badge/-muzaqidev-181717?style=flat&logo=github&logoColor=white)](https://github.com/muzaqidev)
+[![GitHub followers](https://img.shields.io/github/followers/muzaqidev?style=social)](https://github.com/muzaqidev?tab=followers)
 
 </div>
 
 ---
 
-**What I do**
+### What I Do
 
 - Build autonomous AI coding agents
 - Develop full-stack web applications
@@ -19,28 +19,21 @@ Self-taught developer from Indonesia. Building autonomous AI agents and full-sta
 
 ---
 
-**Pinned Project**
+### Featured Project: KEYZBOT
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muzaqidev&repo=KEYZBOT&theme=dark)](https://github.com/muzaqidev/KEYZBOT)
+> Autonomous AI Agent for Android & Linux
 
----
+34 built-in tools, Web UI, multi-provider, zero config. Built to run natively on Termux.
 
-**GitHub Stats**
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muzaqidev&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muzaqidev&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
-**KEYZBOT** — Autonomous AI Agent for Android & Linux
-
-34 built-in tools, Web UI, multi-provider, zero config.
+[![KEYZBOT](https://github-readme-stats.vercel.app/api/pin/?username=muzaqidev&repo=KEYZBOT&show_owner=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d)](https://github.com/muzaqidev/KEYZBOT)
 
 [![Stars](https://img.shields.io/github/stars/muzaqidev/KEYZBOT?style=social)](https://github.com/muzaqidev/KEYZBOT/stargazers)
 [![Forks](https://img.shields.io/github/forks/muzaqidev/KEYZBOT?style=social)](https://github.com/muzaqidev/KEYZBOT/network/members)
-[![Watchers](https://img.shields.io/github/watchers/muzaqidev/KEYZBOT?style=social)](https://github.com/muzaqidev/KEYZBOT/watchers)
+
+---
+
+### GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muzaqidev&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide=issues)](https://github.com/muzaqidev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzaqidev&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&langs_count=8)](https://github.com/muzaqidev)

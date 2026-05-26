@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi, I'm WAHYU FAOSZAN MUZAQI
+### Hi, I'm muzaqi dev
 
 Building autonomous AI agents and full-stack tools that run natively on Android via Termux.
 
